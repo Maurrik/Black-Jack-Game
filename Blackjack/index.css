@@ -1,0 +1,15 @@
+
+body{
+font-family: 'Trebuchet MS';
+background-color: green;
+text-align: center;
+color: white;
+font-weight: bold;
+}
+
+h1 {color: goldenrod;text-align: center;}
+
+#message-el{font-style: italic;}
+
+button{border: none;border-radius: 2px;font-weight: bolder;color: #016f32;width: 200px;background-color: goldenrod;font-size: 20px;padding: 10px;}
+
